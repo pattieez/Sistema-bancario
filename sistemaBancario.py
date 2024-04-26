@@ -1,4 +1,5 @@
 menu = """
+                Bem-vindo(a)!
 --------- INFORME A OPÇÃO DESEJADA ---------
                 [1] Depositar
                 [2] Sacar
